@@ -1,1 +1,3 @@
-backend/api-gateway/demo
+backend/api-gateway/
+backend/sales-service/node_modules
+backend/sales-service/package-lock.json
