@@ -1,0 +1,9 @@
+./backend/api-gateway/node_modules
+./api-gateway/package-lock.json
+
+./backend/product-service/node_modules
+./backend/product-service/package-lock.json
+./backend/sales-service/node_modules
+./backend/sales-service/package-lock.json
+./backend/statistics-service/node_modules
+./backend/statistics-service/package-lock.json
